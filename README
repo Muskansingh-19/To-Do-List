@@ -1,0 +1,15 @@
+A simple and intuitive To-Do List application designed to help users manage their tasks and increase productivity.
+
+Features
+- Create, edit, and delete tasks
+- Prioritize tasks based on urgency and importance
+- Set due dates and reminders for tasks
+- Track progress and stay organized
+- Categorize tasks into projects or labels
+Usage
+1. Create a new task by clicking the "+" button or pressing the "Enter" key.
+2. Edit a task by clicking on it and making changes.
+3. Delete a task by clicking the trash can icon.
+4. Prioritize tasks by dragging and dropping them or using the priority dropdown.
+5. Set due dates and reminders by clicking the calendar icon.
+
